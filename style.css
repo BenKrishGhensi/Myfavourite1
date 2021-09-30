@@ -1,0 +1,24 @@
+.welcome{
+background: linear-gradient(#eb8934 0%, #27ae60 100%);
+}
+h1{
+    text-align: center;
+    font-size:50px;
+}
+p{
+    font-size:30px;
+}
+img{
+    height: 200px;
+        width:200px;
+    align-content: center;
+}
+.about{
+    background: linear-gradient(#090979 0%, #790969 100%);
+    color:white;
+}
+.line{
+    height: 20px;
+    width:40px;
+    color: black;
+}
