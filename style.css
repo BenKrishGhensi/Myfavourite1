@@ -1,0 +1,38 @@
+.welcome{
+background: linear-gradient(#eb8934 0%, #27ae60 100%);
+}
+h1{
+    text-align: center;
+    font-size:50px;
+}
+p{
+    font-size:30px;
+}
+img{
+    height: 200px;
+        width:200px;
+    align-content: center;
+}
+.about{
+    background: linear-gradient(#090979 0%, #790969 100%);
+    color:white;
+    font-family: 'Festive', cursive;
+}
+.line{
+    height: 6px;
+    width:300px;
+    background-color: black;
+    margin: 80px,auto;
+}
+.menu{
+    list-style: none;
+    font-family: cursive;
+    top: 10px;
+    right:30px;
+    cursor: pointer;
+    color:black;
+    
+    
+}
+.links:hover {
+    background-color: lightblue;
